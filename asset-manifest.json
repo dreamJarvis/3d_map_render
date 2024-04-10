@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/3d_map_render/static/css/main.607b1e34.css",
+    "main.js": "/3d_map_render/static/js/main.39291981.js",
+    "index.html": "/3d_map_render/index.html",
+    "main.607b1e34.css.map": "/3d_map_render/static/css/main.607b1e34.css.map",
+    "main.39291981.js.map": "/3d_map_render/static/js/main.39291981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607b1e34.css",
+    "static/js/main.39291981.js"
+  ]
+}
